@@ -4,6 +4,7 @@ Glucose Badge is an iPhone app written in Swift whose sole purpose is to read va
 
 glucose-badge is based off of work done by [Nathan Racklyeft](https://github.com/loudnate) and makes use of his [xDripG5](https://github.com/loudnate/xDripG5) project. xDripG5 is included as a dependency via Cocoapods. To begin working on this project you'll want to navigate to the root directory and run the following
 ```
+%> pod setup
 %> pod install
 ```
 
